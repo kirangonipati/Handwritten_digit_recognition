@@ -17,9 +17,9 @@
 
 ![image](https://github.com/himanshudutta11/Handwritten_digit_recognition/assets/49125889/355dba11-7858-4170-8ad6-eaa2a61ff348)
 
-![image](https://github.com/himanshudutta11/Handwritten_digit_recognition/assets/49125889/1308255c-2ce4-47a0-a521-e3ac73c33bfe)
+![image](https://github.com/himanshudutta11/Handwritten_digit_recognition/assets/49125889/d91bd843-32a5-4375-8e0c-ff3fddfa0416)
 
-![image](https://github.com/himanshudutta11/Handwritten_digit_recognition/assets/49125889/a72d0ff2-083c-4892-8e27-71ee502ecd5c)
+![image](https://github.com/himanshudutta11/Handwritten_digit_recognition/assets/49125889/696fd486-4b8c-4e5d-aa24-beb5293529e3)
 
 
 **Github links:** <br>
