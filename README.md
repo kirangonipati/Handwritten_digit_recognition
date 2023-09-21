@@ -19,10 +19,10 @@
 
 ![image](https://github.com/himanshudutta11/Handwritten_digit_recognition/assets/49125889/d91bd843-32a5-4375-8e0c-ff3fddfa0416)
 
-![image](https://github.com/himanshudutta11/Handwritten_digit_recognition/assets/49125889/696fd486-4b8c-4e5d-aa24-beb5293529e3)
 
 
 **Github links:** <br>
 **Tensorflow:** https://github.com/himanshudutta11/Handwritten_digit_recognition/blob/main/Tensorflow_Digit_Recognition.ipynb <br>
 **Pytorch:** https://github.com/himanshudutta11/Handwritten_digit_recognition/blob/main/Pytorch_Digit_Recognition.ipynb <br>
+**Readme:** https://github.com/himanshudutta11/Handwritten_digit_recognition/blob/main/README.md <br>
 **Youtube Demo Video:** https://www.youtube.com/watch?v=BE3TeO_zXT8 
